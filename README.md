@@ -17,3 +17,20 @@ installlation steps
   5. npm install @openzeppelin/contracts
   6. npx hardhat
 4. you can check the version of hardhat by "npx hardhat --version" , kindly install every dependcies with the latest version
+5. cd ..
+6. mkdir backend
+7. npm init -y
+8. npm install express mongoose dotenv cors helmet morgan web3 ethers express-async-handler 
+   jsonwebtoken bcryptjs
+9. npm install --save-dev nodemon
+10. there will be a file in backend with server.js
+11. create .env file in backend
+     # backend/.env
+    NODE_ENV=production
+    PORT=5000
+    MONGO_URI=your url
+    JWT_SECRET=yourkey
+    CONTRACT_ADDRESS=your_deployed_contract_address
+    WEB3_PROVIDER_URL=http://localhost:8545
+  
+     
