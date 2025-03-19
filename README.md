@@ -16,3 +16,4 @@ installlation steps
   4. npm install --save-dev solidity-coverage dotenv
   5. npm install @openzeppelin/contracts
   6. npx hardhat
+4. you can check the version of hardhat by "npx hardhat --version" , kindly install every dependcies with the latest version
