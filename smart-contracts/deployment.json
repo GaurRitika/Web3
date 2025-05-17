@@ -1,0 +1,7 @@
+{
+  "network": "sepolia",
+  "rewardTokenAddress": "0xc35626773027c464Ba0B145680ac842987AC5701",
+  "cashbackRewardsAddress": "0xbd7CF0b2D39A2a1e41A8a14961f21B463fac88B7",
+  "deployer": "0x45EC5F67940b98962383872d5e1C8BB8Bfd4ca88",
+  "timestamp": "2025-05-17T05:17:35.099Z"
+}
