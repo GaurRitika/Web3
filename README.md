@@ -4,6 +4,28 @@ npx hardhat compile
 npx hardhat run scripts/deploy.js --network sepolia  # or mumbai
 
 
+1. User Flows
+[x] Registration (UI/logic exists, needs polish and error handling)
+[x] Login with Wallet (UI/logic exists, needs polish and error handling)
+[x] Dashboard (UI/logic exists, can be made more beautiful and informative)
+[x] Profile (UI/logic exists, can be improved)
+[x] Merchant Discovery (screen exists, needs UI/logic polish)
+[x] Transactions (screen exists, needs UI/logic polish)
+2. Merchant Flows
+[x] Merchant Registration/Login (screens exist, need polish)
+[x] Merchant Dashboard (UI/logic exists, needs polish and QR/transaction UX improvement)
+[x] Fund Management (add token balance, top-up UI)
+3. Admin Flows
+[x] Admin Dashboard (UI/logic exists, needs polish and clear admin-only features)
+[x] Merchant Approval/Management (exists, needs UI/logic polish)
+[x] User Management (add if missing)
+4. Navigation & Role Awareness
+[ ] Show “You are logged in as [User/Merchant/Admin]” in header/dashboard
+[ ] Clear navigation for each role
+[ ] Role-based route protection
+
+
+
 
 
 
